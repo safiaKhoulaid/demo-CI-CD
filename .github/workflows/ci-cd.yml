@@ -27,4 +27,4 @@ jobs:
         run: mvn test
 
       - name: Run smoke test
-        run: java -cp target/classes com.example.App
+        run: java -cp target/classes com.demo.App
